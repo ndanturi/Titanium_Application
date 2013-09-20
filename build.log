@@ -1,0 +1,129 @@
+Logfile initialized
+[INFO] logfile = C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\build.log
+[DEBUG] C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\builder.py simulator Quizapp C:\Android C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp com.asu.edu 4 WVGA854
+[INFO] Building Quizapp for Android ... one moment
+[INFO] Titanium SDK version: 3.0.0 (12/12/12 18:49 a5894b3)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[TRACE] adb devices returned 2 devices/emulators
+[INFO] Launching application ... Quizapp
+[TRACE] Launch output: Error type 2
+android.util.AndroidException: Can't connect to activity manager; is the system running?
+
+[INFO] Deployed Quizapp ... Application should be running.
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 15 seconds)
+[DEBUG] waited 15.523000 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.asu.edu installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-long-land-hdpi\default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-long-land-ldpi\default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-long-port-hdpi\default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-long-port-ldpi\default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-land-hdpi\default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-land-ldpi\default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-land-mdpi\default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-port-hdpi\default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-port-ldpi\default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\Resources\android\images\res-notlong-port-mdpi\default.png
+[INFO] Waiting for SDCard to become available..
+[DEBUG] creating unsigned apk: C:\Users\Navn\My Documents\Titanium_Studio_Workspace\Quizapp\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/back.png
+[DEBUG] from resource zip => assets/Resources/images/button.png
+[DEBUG] from resource zip => assets/Resources/images/main.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/back.png
+[DEBUG] from resource zip => assets/Resources/button.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/egtQ.js
+[DEBUG] from resource zip => assets/Resources/eightQ.js
+[DEBUG] from resource zip => assets/Resources/elevenQ.js
+[DEBUG] from resource zip => assets/Resources/fifQ.js
+[DEBUG] from resource zip => assets/Resources/fifthQ.js
+[DEBUG] from resource zip => assets/Resources/fouQ.js
+[DEBUG] from resource zip => assets/Resources/fourthQ.js
+[DEBUG] from resource zip => assets/Resources/main.png
+[DEBUG] from resource zip => assets/Resources/nextScreen.js
+[DEBUG] from resource zip => assets/Resources/ngtQ.js
+[DEBUG] from resource zip => assets/Resources/nineQ.js
+[DEBUG] from resource zip => assets/Resources/secondQ.js
+[DEBUG] from resource zip => assets/Resources/sevenQ.js
+[DEBUG] from resource zip => assets/Resources/sixtQ.js
+[DEBUG] from resource zip => assets/Resources/sixthQ.js
+[DEBUG] from resource zip => assets/Resources/svtQ.js
+[DEBUG] from resource zip => assets/Resources/tenQ.js
+[DEBUG] from resource zip => assets/Resources/thirdQ.js
+[DEBUG] from resource zip => assets/Resources/thrQ.js
+[DEBUG] from resource zip => assets/Resources/ti.cloud.js
+[DEBUG] from resource zip => assets/Resources/tweQ.js
+[DEBUG] from resource zip => assets/Resources/twnQ.js
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/close.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/close.png
+[DEBUG] from resource zip => res/drawable-ldpi/close.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR C:\Users\Navn\AppData\Roaming\Titanium\mobilesdk\win32\3.0.0.GA\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.071000 seconds on emulator to get ready
+[INFO] Installing application on emulator
+[INFO] Launching application ... Quizapp
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.asu.edu/.QuizappActivity }
+
+[INFO] Deployed Quizapp ... Application should be running.
